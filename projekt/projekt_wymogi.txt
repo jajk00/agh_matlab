@@ -1,0 +1,14 @@
+1. Dane u¿yte w zadaniu musz¹ spe³niaæ nastêpuj¹ce warunki: 
+a) dane musz¹ byæ w formie tablicowej (strutura table).
+b) dane musz¹ byæ heterogeniczne: liczbowe, kategoryczne, liczby w formie napisów (ewentualnie mo¿na wygenerowaæ takie dane) oraz czasowe (czasowe mog¹ byæ wygenerowane sztucznie). Im bardziej zró¿nicowane, tym lepiej;
+c) dane musz¹ zawieraæ braki (ewentualnie mo¿na je wygenerowaæ);
+d) dane musza mieæ wartoœci odstaj¹ce (ewentualnie mo¿na je wygenerowaæ);
+e) musi byæ co najmniej 8 atrybutów oraz co najmniej 30000 obserwacji.
+2. Nale¿y wykorzystaæ strukturê timetable oraz co najmniej dwie funkcje dzia³aj¹ce na timetable.
+3. Nale¿y dodaæ do tabeli co najmniej dwie kolumny utworzone na podstawie istniej¹cych kolumn.
+4. Nale¿y wykorzystaæ w analizie funkcje: removervars, movevars, mergecats.
+5. Nale¿y wykorzystaæ w analizie funkcje: ismissing, rmmissing lub fillmissing (co najmniej dwie ró¿ne metody uzupe³niania) oraz podaæ ile by³o braków.
+6. Nale¿y wykorzytsaæ funkcje isoutlier, rmoutliers lub filloutliers (co najmniej dwie ró¿ne metody uzupe³niania) oraz podaæ ile by³o wartoœci odstaj¹ych.
+7. Nale¿y zobrazowaæ dane za pomoc¹ co najmniej piêciu ró¿nych typów wykresów oraz wykorzystaæ instrukcjê subplot.
+8. Nale¿y wykonaæ normalizacjê danych (normalize) lub uzasadniæ, ¿e jest ona zbêdna. Co w przypadku danych (oryginalnie) kategorycznych?
+9. Przetworzone dane nale¿y zapisaæ w pliku z rozszerzeniem .mat. Plik do³¹czyæ do projektu.
